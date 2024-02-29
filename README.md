@@ -10,7 +10,7 @@ The primary objective of this project was to leverage data analytics techniques 
 To accomplish this project, we utilized cutting-edge tools and technologies including IBM Cognos Analytics, DB2 Database, and Excel, Github, Google collaboratory. These robust platforms provided us with the capabilities to perform comprehensive healthcare data analysis and derive meaningful insights.
 
 
-## Please find the link below to access the Cognos Analytics Dashboard:
+
 
 
 ## Key Findings
